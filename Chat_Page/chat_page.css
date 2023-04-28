@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&family=Roboto:wght@300&family=Rubik+Pixels&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Roboto', sans-serif;
+}
+.container-fluid{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    max-width: 500px;
+    height: 100%;
+    width: 30%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color:#ffffff;
+}
+.title{
+    background-color:#323f4b;
+}
+.chatSent{
+    background-color: #47a3f3;
+}
+.chatRecieve{
+    background-color: #52606d;
+}
