@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Kalam:wght@700&family=Roboto:wght@300&family=Rubik+Pixels&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&family=Roboto:wght@300&family=Rubik+Pixels&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Bree Serif', serif;
+}
+.card-body{
+    background-color: #f6c56e;
+    color: #323f4b;
+}
+.btn {
+    background-color: #ffffff;
+}
