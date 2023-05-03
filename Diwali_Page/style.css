@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Poppins:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card-title{
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+}
+body{
+    background-color: #e6f6ff;
+}
