@@ -7,6 +7,7 @@
 }
 .card-title{
     color: #323f4b;
+    font-family:'Roboto', sans-serif;
 }
 .button {
     background-color: #323f4b;
@@ -16,4 +17,5 @@
 }
 h5, p{
     color:#7b8794;
+    font-family:'Roboto', sans-serif;
 }
