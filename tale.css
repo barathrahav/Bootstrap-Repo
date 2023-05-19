@@ -1,0 +1,12 @@
+.list_type{
+    list-style-image:url('tick.jpg');
+}
+ul{
+    line-height:20px;
+}
+ul li{
+    background-color:gray;
+    margin:20px;
+}
+li:hover{background-color:aqua;
+}
